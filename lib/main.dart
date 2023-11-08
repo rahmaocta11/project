@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         // ignore: prefer_const_constructors
-        appBar: AppBar(title: Text("API DEMO"),),
+        appBar: AppBar(title: Text("API DEMONSTRASI"),),
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
